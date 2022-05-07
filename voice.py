@@ -1,4 +1,7 @@
-Halagador = "src/voice/Halagador_Raro.mp3"
 Ambos_son_Geniales = "src/voice/Ambos_son_Geniales.mp3"
+Da_miedo = "src/voice/Da_miedo.mp3"
+Esta_bien = "src/voice/Esta_bien.mp3"
 Gracias = "src/voice/Gracias.mp3"
+Halagador = "src/voice/Halagador_Raro.mp3"
+Hay_un_Monstruo = "src/voice/Hay_un_Monstruo.mp3"
 Voy_a_Intentarlo = "src/voice/Voy_a_intentarlo.mp3"
